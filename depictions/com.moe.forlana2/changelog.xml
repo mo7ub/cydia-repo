@@ -1,0 +1,12 @@
+<changelog>
+	<changes>
+		<version>21-2</version>
+		<change>Second release</change>
+		<change>It looks cool</change>
+		<change>I spent so much time making it</change>
+	</changes>
+	<changes>
+		<version>21-1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

@@ -1,45 +1,23 @@
 <package>
-	<id>com.moe.forlana</id>
-	<name>For Lana</name>
-	<version>21-1</version>
+	<id>com.supermamon.oldpackage</id>
+	<name>Old Package</name>
+	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<maxiOS>7.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
-	<shortDescription>This is my first theme</shortDescription>
+	<dependencies></dependencies>
 	<descriptionlist>
-		<description>My first cydia theme.</description>
-		<description>I took ages to make this repo.</description>
-		<description><![CDATA[
-		This is actually fun<br/> 
-		hope you like it.
-		]]>
-		</description>
+		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>This is how the icons look like!</description>
-			<image>icons.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is how more icons look like!</description>
-			<image>icons2.jpg</image>
-		</screenshot>		
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
-		<change>First release</change>
-		<change>It looks cool</change>
-		<change>I spent so much time doing it</change>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>
