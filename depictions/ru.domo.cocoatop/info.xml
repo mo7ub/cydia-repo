@@ -1,0 +1,23 @@
+<package>
+	<id>ru.domo.cocoatop</id>
+	<name>CocoaTop</name>
+	<version>64beta1-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Monitor CPU and Memory processes!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

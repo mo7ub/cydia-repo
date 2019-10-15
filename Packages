@@ -27,3 +27,18 @@ Name: Apple Logo Malware
 Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=AppleMalwareRespring
 
+Package: ru.domo.cocoatop
+Version: 64beta1-1
+Section: Tweaks
+Maintainer: Moe
+<mohamedgamal657@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ru.domo.cocoatop.deb
+Size:  151514 Bytes
+MD5sum: c30794b242e73c924db279640dc6eee1
+Description: Monitor cpu and memory processes!
+Name: CocoaTop
+Author: Moe <mohamedgamal657@gmail.com>
+Depiction: https://mohamedgamal657.github.io/depictions/?p=ru.domo.cocoatop
+
