@@ -1,7 +1,7 @@
 <package>
 	<id>com.moe.forlana</id>
 	<name>For Lana</name>
-	<version>2.0</version>
+	<version>21-1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>13</maxiOS>
