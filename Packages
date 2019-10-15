@@ -5,8 +5,8 @@ Maintainer: Moe0808 <mohamedgamal657@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.moe.forlana.deb
-Size:  1129122 Bytes
-MD5sum: e1ee780384ff6d45ff5a93fa2d8e5bd7
+Size:  5502722 Bytes
+MD5sum: f465c6e6b311b0e0c72484bbcca65aee
 Description: My theme.
 Name: For Lana
 Author: Moe0808 <mohamedgamal657@gmail.com>
