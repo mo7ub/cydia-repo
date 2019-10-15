@@ -42,18 +42,18 @@ Name: PrivateDeb
 Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=batchinstall-online
 
-Package: com.moe.forlana
+Package: com.moe.lana
 Version: 21-1
 Section: Themes
 Maintainer: Moe
 <mohamedgamal657@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.moe.forlana.deb
+Filename: ./debs/com.moe.lana.deb
 Size:  5534984 Bytes
 MD5sum: 2c6acd1dc07f03f2565f1941905ce8ef
 Description: An awesome dark ios theme. Enjoy!
-Name: For Lana
+Name: Lana
 Author: Moe <mohamedgamal657@gmail.com>
-Depiction: https://mohamedgamal657.github.io/depictions/?p=com.Is moe.forlana
+Depiction: https://mohamedgamal657.github.io/depictions/?p=com.Is moe.lana
 
