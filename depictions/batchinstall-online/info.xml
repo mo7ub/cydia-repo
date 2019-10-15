@@ -1,0 +1,23 @@
+<package>
+	<id>batchinstall-online</id>
+	<name>PrivateDeb</name>
+	<version>15.10.2019</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Private Deb and preferences. DO NO INSTALL!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,5 +1,5 @@
 Package: com.moe.ForLana
-Version: 21-1
+Version: 2.0
 Section: Themes
 Maintainer: Moe
 <mohamedgamal657@gmail.com>
@@ -42,3 +42,17 @@ Name: CocoaTop
 Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=ru.domo.cocoatop
 
+Package: batchinstall-online
+Version: 15.10.2019
+Section: Debs
+Maintainer: Moe
+<mohamedgamal657@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/batchinstall-online.deb
+Size:  751154 Bytes
+MD5sum: 8c9b0cc74cfddddfc31fb6a2fd819b84
+Description: My .deb and preferences.DO NOT INSTALL!
+Name: PrivateDeb
+Author: Moe <mohamedgamal657@gmail.com>
+Depiction: https://mohamedgamal657.github.io/depictions/?p=batchinstall-online
