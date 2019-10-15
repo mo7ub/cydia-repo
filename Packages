@@ -1,6 +1,6 @@
 Package: com.moe.ForLana
 Version: 21-1
-Section: Tweaks
+Section: Themes
 Maintainer: Moe
 <mohamedgamal657@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
@@ -13,17 +13,17 @@ Name: For Lana
 Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.forlana
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: AppleMalwareRespring
+Version: 1.0
+Section: Themes
+Maintainer: Moe <mohamedgamal657@gmail.com>
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Filename: ./debs/AppleMalwareRespring.deb
+Size: 35116614 Bytes
+MD5sum: 70ce825ccb62e8ed80bccee8a81d93f1
+Description: Apple glitchy logo Respring
+Name: Apple Logo Malware
+Author: Moe <mohamedgamal657@gmail.com>
+Depiction: https://mohamedgamal657.github.io/depictions/?p=AppleMalwareRespring
 
