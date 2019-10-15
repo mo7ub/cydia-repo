@@ -15,7 +15,16 @@
 	<descriptionlist>
 		<description>this is my first ios theme</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>This is how the icons look like!</description>
+			<image>icons.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is how more icons look like!</description>
+			<image>icons2.jpg</image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
