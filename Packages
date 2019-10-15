@@ -1,15 +1,16 @@
 Package: com.moe.ForLana
 Version: 21-1
 Section: Tweaks
-Maintainer: Moe0808 <mohamedgamal657@gmail.com>
+Maintainer: Moe
+<mohamedgamal657@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.moe.forlana.deb
-Size:  5502722 Bytes
-MD5sum: f465c6e6b311b0e0c72484bbcca65aee
-Description: My theme.
+Size:  5523184 Bytes
+MD5sum: d5d51293802a4038a6ffc7a33025bbf9
+Description: An awesome dark ios theme. Enjoy!
 Name: For Lana
-Author: Moe0808 <mohamedgamal657@gmail.com>
+Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.forlana
 
 Package: com.supermamon.oldpackage
