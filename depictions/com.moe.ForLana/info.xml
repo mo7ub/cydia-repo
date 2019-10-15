@@ -1,0 +1,45 @@
+<package>
+	<id>com.moe.ForLana</id>
+	<name>For Lana</name>
+	<version>21-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is my first theme</shortDescription>
+	<descriptionlist>
+		<description>My first cydia theme.</description>
+		<description>I took ages to make this repo.</description>
+		<description><![CDATA[
+		This is actually fun<br/> 
+		hope you like it.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is how the icons look like!</description>
+			<image>icons.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is how more icons look like!</description>
+			<image>icons2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>First release</change>
+		<change>It looks cool</change>
+		<change>I spent so much time doing it</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
