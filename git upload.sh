@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-cd /var/mobile/mohamedgamal657.github.io
+cd /var/mobile/Documents
  pwd
 git config --global user.name "mohamedgamal657"
      git config --global user.email "mohamedgamal657@gmail.com"
