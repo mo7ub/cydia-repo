@@ -43,15 +43,15 @@ Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=batchinstall-online
 
 Package: com.moe.lana
-Version: 2.1
+Version: 2.2
 Section: Themes
 Maintainer: Moe
 <mohamedgamal657@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.moe.lana.deb
-Size:  5497404 Bytes
-MD5sum: 1da38fed55ad0d623134a6a6f634631d
+Size:  550720 Bytes
+MD5sum: 65e23ffa0b29d4c947e720ef5179ef7f
 Description: An awesome dark ios theme. Enjoy!
 Name: Lana
 Author: Moe <mohamedgamal657@gmail.com>
