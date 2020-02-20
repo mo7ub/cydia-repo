@@ -1,0 +1,9 @@
+package: com.moe.lana
+Name: Lana
+Version: 2.2
+Architecture: iphoneos-arm
+Description:Made for lana
+Author: Moe
+Maintainer: Moe
+Section: Themes
+Depends: com.spark.snowboard
