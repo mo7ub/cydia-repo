@@ -50,7 +50,7 @@ Maintainer: Moe
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.moe.lana.deb
-Size:  550720 Bytes
+Size:  5507020 Bytes
 MD5sum: 65e23ffa0b29d4c947e720ef5179ef7f
 Description: An awesome dark ios theme. Enjoy!
 Name: Lana
