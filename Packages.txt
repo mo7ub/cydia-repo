@@ -2,7 +2,7 @@ Package: com.moe.cobid19
 Version: 1.3
 Section: Tweaks
 Maintainer: moe <mohamedgamal657@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.moe.cobid19.deb
 Size: 24350208
