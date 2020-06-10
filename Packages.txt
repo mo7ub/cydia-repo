@@ -57,7 +57,7 @@ Name: Lana
 Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.lana
 
-Package: com.moe.covid19
+Package: com.moe.cobid19
 Version: 1.3
 Section: Debs
 Maintainer: Moe
