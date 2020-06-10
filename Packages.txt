@@ -57,3 +57,17 @@ Name: Lana
 Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.lana
 
+Package: com.moe.covid19
+Version: 1.3
+Section: Themes
+Maintainer: Moe
+<mohamedgamal657@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.moe.covid19.deb
+Size:  5507188 Bytes
+MD5sum: 944d109a8ad6bbab145c43431ea90b10
+Description: EHTERAZ no wifi no bluetooth no bullshit
+Name: EHTERAZ
+Author: Moe <mohamedgamal657@gmail.com>
+Depiction: 
