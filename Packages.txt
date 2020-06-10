@@ -1,3 +1,18 @@
+Package: com.moe.cobid19
+Version: 1.3
+Section: Tweaks
+Maintainer: moe <mohamedgamal657@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.moe.cobid19.deb
+Size: 24350182
+MD5sum: 61f2d406229faa449e51ad2ec50d4344
+Description: EHTERAZ no wifi no bluetooth no bullshit
+Name: EHTERAZ
+Author: moe <mohamedgamal657@gmail.com>
+Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.cobid19
+
+
 Package: AppleMalwareRespring
 Version: 1.0
 Section: Themes
@@ -56,19 +71,3 @@ Description: An awesome dark ios theme. Enjoy!
 Name: Lana
 Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.lana
-
-Package: com.moe.cobid19
-Name: EHTERAZ
-Version: 1.3
-Section: Debs
-Maintainer: Moe
-Depends:
-Architecture: iphoneos-arm
-Filename: ./debs/com.moe.cobid19.deb
-Size:  24350182
-MD5sum: 61f2d406229faa449e51ad2ec50d4344
-SHA1: f3847001f0bad83ed45777947939a7a6cc807ef1
-SHA256: d7f7809df8a07c39feb348f7f34d05b5d8b9564e98ea0e01a891c52b0b2ce72d
-Description: EHTERAZ no wifi no bluetooth no bullshit
-Author: Moe
-Depiction: 
