@@ -59,7 +59,7 @@ Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.lana
 
 Package: com.moe.covid19
 Version: 1.3
-Section: Themes
+Section: Apps
 Maintainer: Moe
 <mohamedgamal657@gmail.com>
 Depends:
