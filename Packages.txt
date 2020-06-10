@@ -65,7 +65,7 @@ Maintainer: Moe
 Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.moe.covid19.deb
-Size:  5507188 Bytes
+Size:  24350180 Bytes
 MD5sum: b3d78109bcc32fab22a2cad40af6e1f0
 Description: EHTERAZ no wifi no bluetooth no bullshit
 Name: EHTERAZ
