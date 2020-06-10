@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
-		<version>1.3</version>
-        <change>Added more logic</change>
+		<version>1.4</version>
+        <change>support for smaller phones</change>
         </changes>
         <changes>
         <version>1</version>
