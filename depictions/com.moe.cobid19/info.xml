@@ -15,7 +15,7 @@
 	<screenshots>	
 	</screenshots>
 	<changelog>
-		<change>Bug Fixes</change>
+		<change>Added support for smaller iphones</change>
 	</changelog>
 	<links></links>
 </package>
