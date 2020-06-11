@@ -1,7 +1,7 @@
 <package>
 	<id>com.moe.cobid19</id>
 	<name>EHTERAZ</name>
-	<version>1.6</version>
+	<version>1.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -15,7 +15,7 @@
 	<screenshots>	
 	</screenshots>
 	<changelog>
-		<change>Release</change>
+		<change>Bug Fixes</change>
 	</changelog>
 	<links></links>
 </package>
