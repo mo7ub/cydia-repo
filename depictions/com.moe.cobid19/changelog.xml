@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
-		<version>1.5</version>
-        <change>support for smaller phones</change>
+		<version>1.6</version>
+        <change>support for smaller phones & bug fixed</change>
         </changes>
         <changes>
         <version>1</version>
