@@ -1,8 +1,8 @@
-Origin: Moe’s Repo
+Origin: Moe’s Repository
 Label:Moe
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description:This is what a repo is
+Description:This is what my repo is
