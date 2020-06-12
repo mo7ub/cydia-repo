@@ -27,15 +27,15 @@ Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=AppleMalwareRespring
 
 Package: ru.domo.cocoatop64
-Version: 2.0.2-1+debug
+Version: 2.1
 Section: Tweaks
 Maintainer: Moe
 <mohamedgamal657@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/ru.domo.cocoatop.deb
-Size:  210408 Bytes
-MD5sum: da43e430130cd67e261dfdd9481cf90c
+Filename: ./debs/ru.domo.cocoatop64.deb
+Size:  210402 Bytes
+MD5sum: 9999320e3550f1de4235aa4518272467
 Description: Monitor cpu and memory processes!
 Name: CocoaTop
 Author: Moe <mohamedgamal657@gmail.com>
