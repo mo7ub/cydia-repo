@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
-		<version>1.9</version>
-        <change>Capitalize all text entered in 'NAME'</change>
+		<version>2.0</version>
+        <change>Added custom Qr Codes support basically enter your Qr code and restart the App. currently only supports the Iphone X and the Plus models</change>
         </changes>
         <changes>
         <version>1</version>
