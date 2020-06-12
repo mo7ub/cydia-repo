@@ -15,7 +15,7 @@
 	<screenshots>	
 	</screenshots>
 	<changelog>
-		<change>Added custom Qr Codes support basically enter your Qr code and restart the app. currently only supports iphone x and the plus models</change>
+		<change>Added custom Qr Codes support basically enter your Qr code and restart the app. currently only supports iphone x/ xs /11 pro and the plus models</change>
 	</changelog>
 	<links></links>
 </package>
