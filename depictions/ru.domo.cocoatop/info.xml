@@ -4,7 +4,7 @@
 	<version>64beta1-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13</maxiOS>
+			<miniOS>9</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
