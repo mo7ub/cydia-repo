@@ -28,14 +28,14 @@ Depiction: https://mohamedgamal657.github.io/depictions/?p=AppleMalwareRespring
 
 Package: ru.domo.cocoatop64
 Version: 2.1
-Section: Tweaks
+Section: Utilities
 Maintainer: Domo
-Depends: 
+Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/ru.domo.cocoatop64.deb
 Size:  210402
 MD5sum: 9999320e3550f1de4235aa4518272467
-Description: Monitor cpu and memory processes!
+Description: Process Viewer for iOS GUI (64-bit)
 Name: CocoaTop
 Author: Domo
 Depiction: https://mohamedgamal657.github.io/depictions/?p=ru.domo.cocoatop
