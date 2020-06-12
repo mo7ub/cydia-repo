@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>0.0.1-10+debug</version>
+        <change>Upload to Repo</change>
+        </changes>
+        <changes>
+        <version>0</version>
+		<change>initial release</change>
+	</changes>
+</changelog>

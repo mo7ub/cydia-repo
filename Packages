@@ -69,3 +69,17 @@ Description: An awesome dark ios theme. Enjoy!
 Name: Lana
 Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.lana
+
+Package: com.ahmed.bluetoothfaker
+Version: 0.0.1-10+debug
+Section: Tweaks
+Maintainer: Ahmed
+Depends:
+Architecture: iphoneos-arm
+Filename: ./debs/com.ahmed.bluetoothfaker.deb
+Size: 2650
+MD5sum: 70666a4bf7c182e7fcdaa3c809dcca96
+Description: Spoof BlueTooth on the EHTERAZ application
+Name: Bluetooth Faker
+Author: Ahmed
+Depiction: https://mohamedgamal657.github.io/depictions/?p=com.ahmed.bluetoothfaker
