@@ -30,7 +30,6 @@ Package: ru.domo.cocoatop64
 Version: 2.1
 Section: Tweaks
 Maintainer: Domo
-<mohamedgamal657@gmail.com>
 Depends: 
 Architecture: iphoneos-arm
 Filename: ./debs/ru.domo.cocoatop64.deb
