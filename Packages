@@ -26,8 +26,8 @@ Name: Apple Logo Malware
 Author: Moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=AppleMalwareRespring
 
-Package: ru.domo.cocoatop
-Version: 64beta1-1
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
 Section: Tweaks
 Maintainer: Moe
 <mohamedgamal657@gmail.com>
