@@ -59,15 +59,14 @@ Package: com.moe.lana
 Version: 2.2
 Section: Themes
 Maintainer: Moe
-<mohamedgamal657@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: 
 Architecture: iphoneos-arm
 Filename: ./debs/com.moe.lana.deb
-Size:  5507188 Bytes
-MD5sum: 5e574b72b6e6c7c989f13b3c18356fea
-Description: An awesome dark ios theme. Enjoy!
+Size:  6092350
+MD5sum: 18da81befd16a2973368841cf9282d16
+Description: An awesome dark ios theme.
 Name: Lana
-Author: Moe <mohamedgamal657@gmail.com>
+Author: Moe 
 Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.lana
 
 Package: com.ahmed.bluetoothfaker
