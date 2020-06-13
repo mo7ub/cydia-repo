@@ -1,7 +1,7 @@
 <package>
 	<id>com.moe.cobid19</id>
 	<name>EHTERAZ</name>
-	<version>2.3</version>
+	<version>2.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -10,12 +10,12 @@
 	<dependencies></dependencies>
 	<shortDescription>Ehteraz</shortDescription>
 	<descriptionlist>
-		<description>EHTERAZ no wifi no bluetooth no bullshit</description>
+		<description>EHTERAZ no wifi no bluetooth no bullshit.<br>Full support for All iphones.</description>
 	</descriptionlist>
 	<screenshots>	
 	</screenshots>
 	<changelog>
-		<change>Partial Xs Max 11 Pro Max support. Currently only supports iphone X/ XS /11 Pro and the Plus models</change>
+		<change>Full Xr / Xs Max/ 11 / 11 Pro Max support.</change>
 	</changelog>
 	<links></links>
 </package>
