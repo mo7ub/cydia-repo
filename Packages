@@ -5,7 +5,7 @@ Maintainer: moe <mohamedgamal657@gmail.com>
 Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.moe.cobid19.deb
-Size: 39961576
+Size: 39971654
 MD5sum: 03a1df02c6f18b8f77801132c1bb9edb
 Description: EHTERAZ no wifi no bluetooth no bullshit
 Name: EHTERAZ
