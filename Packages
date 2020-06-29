@@ -1,12 +1,12 @@
 Package: com.moe.cobid19
-Version: 2.8
+Version: 2.9
 Section: Tweaks
 Maintainer: moe <mohamedgamal657@gmail.com>
 Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.moe.cobid19.deb
-Size: 39971654
-MD5sum: 03a1df02c6f18b8f77801132c1bb9edb
+Size: 39977852
+MD5sum: 9fe7271e95c2aa432901d0e70355390a
 Description: EHTERAZ no wifi no bluetooth no bullshit
 Name: EHTERAZ
 Author: moe <mohamedgamal657@gmail.com>
