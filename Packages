@@ -1,7 +1,7 @@
 Package: com.moe.cobid19
 Version: 2.9
 Section: Tweaks
-Maintainer: moe
+Maintainer: moe <mohamedgamal657@gmail.com>
 Depends:
 Architecture: iphoneos-arm
 Filename: ./debs/com.moe.cobid19.deb
@@ -9,7 +9,7 @@ Size: 39977852
 MD5sum: 9fe7271e95c2aa432901d0e70355390a
 Description: EHTERAZ no wifi no bluetooth no bullshit
 Name: EHTERAZ
-Author: moe
+Author: moe <mohamedgamal657@gmail.com>
 Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.cobid19
 
 Package: AppleMalwareRespring
