@@ -1,84 +1,91 @@
-Package: com.moe.cobid19
-Version: 3.1
-Section: Tweaks
-Maintainer: moe
-Depends:
-Architecture: iphoneos-arm
-Filename: ./debs/com.moe.cobid19.deb
-Size:  39978284
-MD5sum: 2600ec67eeb535373c49bf551a0dc774
-Description: EHTERAZ no wifi no bluetooth no bullshit
-Name: EHTERAZ
-Author: moe
-Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.cobid19
-
-Package: AppleMalwareRespring
-Version: 1.0
-Section: Themes
-Maintainer: Moe <mohamedgamal657@gmail.com>
-Depends: firmware (>7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/AppleMalwareRespring.deb
-Size: 35116614 Bytes
-MD5sum: 70ce825ccb62e8ed80bccee8a81d93f1
-Description: Apple glitchy logo Respring
-Name: Apple Logo Malware
-Author: Moe <mohamedgamal657@gmail.com>
-Depiction: https://mohamedgamal657.github.io/depictions/?p=AppleMalwareRespring
-
-Package: ru.domo.cocoatop64
-Version: 2.1
-Section: Utilities
-Maintainer: Domo
-Depends:
-Architecture: iphoneos-arm
-Filename: ./debs/ru.domo.cocoatop64.deb
-Size:  210454
-MD5sum: 650c6a324e1a89f74ff97ce93831b098
-Description: Process Viewer for iOS GUI (64-bit)
-Name: CocoaTop
-Author: Domo
-Depiction: https://mohamedgamal657.github.io/depictions/?p=ru.domo.cocoatop
-
-Package: batchinstall-online
-Version: 15.10.2019
-Section: Debs
-Maintainer: Moe
-<mohamedgamal657@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/batchinstall-online.deb
-Size:  751154 Bytes
-MD5sum: 8c9b0cc74cfddddfc31fb6a2fd819b84
-Description: My .deb and preferences.DO NOT INSTALL!
-Name: PrivateDeb
-Author: Moe <mohamedgamal657@gmail.com>
-Depiction: https://mohamedgamal657.github.io/depictions/?p=batchinstall-online
-
-Package: com.moe.lana
-Version: 2.2
-Section: Themes
-Maintainer: Moe
-Depends: 
-Architecture: iphoneos-arm
-Filename: ./debs/com.moe.lana.deb
-Size:  6092350
-MD5sum: 18da81befd16a2973368841cf9282d16
-Description: An awesome dark ios theme.
-Name: Lana
-Author: Moe 
-Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.lana
-
 Package: com.ahmed.bluetoothfaker
 Version: 0.0.1-10+debug
-Section: Tweaks
-Maintainer: Ahmed
-Depends:
 Architecture: iphoneos-arm
+Maintainer: Ahmed
+Depends: mobilesubstrate
 Filename: ./debs/com.ahmed.bluetoothfaker.deb
 Size: 2650
 MD5sum: 70666a4bf7c182e7fcdaa3c809dcca96
+SHA1: e6829c818d7403cc4e72f5386ee701d47d8defd7
+SHA256: 529030ee6ab8540835fc5aaec717afda31c4d212557e7c0d3b372f7c71f3dc6a
+Section: Tweaks
 Description: Spoof BlueTooth on the EHTERAZ application
-Name: Bluetooth Faker
 Author: Ahmed
-Depiction: https://mohamedgamal657.github.io/depictions/?p=com.ahmed.bluetoothfaker
+Name: BluetoothFaker
+
+Package: com.moe.cobid19
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: moe
+Filename: ./debs/com.moe.cobid19.deb
+Size: 41111016
+MD5sum: 5ca3a0d94c661b4044d1420ed18cc1bb
+SHA1: 295e36cb883406f2c66bd4cd966b462a19446c1b
+SHA256: 19e63cb545900515e0cb2fa2d88b83ee50022cc089034f733abf1cd07be48cac
+Section: Tweaks
+Description: EHTERAZ no wifi no bluetooth no bullshit
+Author: moe <mohamedgamal657@gmail.com>
+Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.cobid19
+Dev: moe
+Name: EHTERAZ
+
+Package: com.moe.lana
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: MoeAuthor: Moe
+Filename: ./debs/com.moe.lana.deb
+Size: 6092350
+MD5sum: 18da81befd16a2973368841cf9282d16
+SHA1: dac3ed6111924b14783e774ed7e47518a6d28ad7
+SHA256: be63106d3040480b216e6c35d0d13fb6944e1bcee02e5e6674492234b56c5144
+Section: Themes
+Description: An awesome dark ios theme.
+Depiction: https://mohamedgamal657.github.io/depictions/?p=com.moe.lana
+Dev: Moe
+Name: Lana
+
+Package: com.osctardo.AppleMalwareRespring
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Osctardo <osctardodev@icloud.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Filename: ./debs/AppleMalwareRespring.deb
+Size: 35116614
+MD5sum: 70ce825ccb62e8ed80bccee8a81d93f1
+SHA1: 7422a65a15b5f0cdef302fdbc6c76e5b119e2540
+SHA256: 3b63dcc3ddcd21cc0cd45397cd3dbb1858af557b320e447b7beaea30e820c718
+Section: Themes
+Description: Glitchy respring animation for Anemone.
+Author: Osctardo <osctardodev@icloud.com>
+Name: AppleMalwareRespring
+
+Package: com.you.batchinstall
+Version: 2019.10.15-14.12.25
+Architecture: iphoneos-arm
+Maintainer: You
+Filename: ./debs/batchinstall-online.deb
+Size: 751154
+MD5sum: 8c9b0cc74cfddddfc31fb6a2fd819b84
+SHA1: 0a4c18164f67840fa8c8f10976752296ac2d13db
+SHA256: d865837c58177c77f676a38947f6cb41bb611a512b488f1073aa8c889e491d3a
+Section: Tweaks
+Description: Batch-install all of your tweaks for your setup! Created using Batchomatic v3.2
+Author: You
+Name: BatchInstall - Online
+
+Package: ru.domo.cocoatop64
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Domo
+Filename: ./debs/ru.domo.cocoatop64.deb
+Size: 210454
+MD5sum: 650c6a324e1a89f74ff97ce93831b098
+SHA1: dedf47499c59d4665247625f3299299e58ce86ea
+SHA256: 9f767d2df360765a98041d9560016517198893545c76b36114dfe6a378f90137
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Depiction: https://mohamedgamal657.github.io/depictions/?p=ru.domo.cocoatop
+Dev: Domo
+Name: CocoaTop
+
