@@ -18,10 +18,10 @@ Version: 3.3
 Architecture: iphoneos-arm
 Maintainer: moe
 Filename: ./debs/com.moe.cobid19.deb
-Size: 41108848
-MD5sum: 8b8af0f149a5269c8e630aa2a1058ae3
-SHA1: d9bb17d9881d24f4741f36d0655a194eaa79a882
-SHA256: cf56b539c44a9bd5666048ccb26a8e00e33d1068691a53c9de3996f70c7d2136
+Size: 41109100
+MD5sum: 49a34351b6e90ce937c3172f3aeb01b9
+SHA1: b668ca0045438bb53e16cbc9edbc5161e0b4fdfa
+SHA256: 737ff15f6d3475530d14690fc7ca72a9e88a579c120e32350a35f6a29b45c0de
 Section: Tweaks
 Description: EHTERAZ no wifi no bluetooth no bullshit
 Author: moe <mohamedgamal657@gmail.com>
