@@ -14,14 +14,14 @@ Author: Ahmed
 Name: BluetoothFaker
 
 Package: com.moe.cobid19
-Version: 3.3
+Version: 3.2
 Architecture: iphoneos-arm
 Maintainer: moe
 Filename: ./debs/com.moe.cobid19.deb
-Size: 41109100
-MD5sum: 49a34351b6e90ce937c3172f3aeb01b9
-SHA1: b668ca0045438bb53e16cbc9edbc5161e0b4fdfa
-SHA256: 737ff15f6d3475530d14690fc7ca72a9e88a579c120e32350a35f6a29b45c0de
+Size: 36922556
+MD5sum: 1b89ebbaaa4c3ffe3f02910d6d232272
+SHA1: 0ecefbde91afc598c143bf74b49c6c1015dc6e58
+SHA256: d5a2d542dfa8981fcee8124b8decc4ba8b55accb34503f071e2dfe1aba0abd52
 Section: Tweaks
 Description: EHTERAZ no wifi no bluetooth no bullshit
 Author: moe <mohamedgamal657@gmail.com>
