@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+        <version>4.0</version>
+		<change>Finally fixed ios 14 unc0ver FFS.</change>
 		<version>3.7</version>
         <change>Added Vaccine in bottom menu bar.</change>
         </changes>
