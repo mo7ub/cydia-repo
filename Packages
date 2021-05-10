@@ -13,22 +13,6 @@ Description: Spoof BlueTooth on the EHTERAZ application
 Author: Ahmed
 Name: BluetoothFaker
 
-Package: com.moe.cobid19
-Version: 4.0
-Architecture: iphoneos-arm
-Maintainer: mo7
-Filename: ./debs/com.moe.cobid19.deb
-Size: 43736162
-MD5sum: c6de5c8b40c88579ecf03edff66b322c
-SHA1: 21ee2200dde0054c756abec5e0f49f9947401330
-SHA256: aed738238c6e36199a7498d576363d9c5d3512711da6bcde032d628a80414f15
-Section: Tweaks
-Description: EHT no wifi no bluetooth no bullshit
-Author: mo7
-Depiction: https://mo7ub.github.io/depictions/?p=com.moe.cobid19
-Dev: moe
-Name: EHTERAZ
-
 Package: com.moe.lana
 Version: 2.2
 Architecture: iphoneos-arm
